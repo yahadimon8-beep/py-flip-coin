@@ -2,7 +2,6 @@ import random
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from typing import Dict
-from pathlib import Path
 
 
 def flip_coin(
